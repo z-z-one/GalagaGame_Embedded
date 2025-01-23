@@ -13,7 +13,7 @@ H-Smart4412TKU로 실행 가능한 갤러그 게임
 
 * * *
 
-실제로는 깜빡임이 없지만 영상으로만 DotMatrix의 깜빡임이 존재합니다.</br>
+실제로는 깜빡임이 없지만 영상으로만 DotMatrix의 깜빡임이 존재합니다.(카메라의 프레임과 DotMatrix의 프레임 차이로 인한 깜빡임)</br>
 
 - 1을 누르면 게임 시작 </br>
 ![vid](vid/press1tostart.gif)
